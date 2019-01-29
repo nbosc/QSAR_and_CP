@@ -11,6 +11,6 @@ This work is divided into 6 notebooks:
 
 Tested with Python 3.5/3.6
 
-If you are only interested in the data, the data has returned by (3) are available [here](ftp.ebi.ac.uk/pub/databases/chembl/qsar_vs_cp_modelling_data/)
+If you are only interested in the data, the data has returned by (3) are available [here](http://ftp.ebi.ac.uk/pub/databases/chembl/qsar_vs_cp_modelling_data/)
 
-[test](www.google.com)
+If you are only interested in the models, the models are available [to upload]()
