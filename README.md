@@ -7,7 +7,7 @@ This work is divided into 6 notebooks:
 - 3-Modeling_file_creation: In charge of splitting the data per targets and to prepare it for modelling
 - 4-Job_submission: Example of job submission
 - 5-Modelling_QSAR_and_CP: Actual modelling part
-- utils: few python functions
+- utils: few python functions and classes
 
 Tested with Python 3.5/3.6
 
